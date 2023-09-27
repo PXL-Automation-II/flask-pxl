@@ -17,6 +17,6 @@ def hello():
 
 
 if __name__ == "__main__":
-    logging.info('starting backend server on ' +
+    logging.info('starting wholesome backend server with love on ' +
                  backend_network + ' port ' + backend_port)
     app.run(host=backend_network, port=backend_port)
