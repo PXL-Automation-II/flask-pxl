@@ -1,6 +1,6 @@
 # flask-pxl
  
-Minimal python flask web app
+Minimal but lovely python flask web app
 
 ## Build
 
