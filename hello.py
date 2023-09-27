@@ -13,7 +13,7 @@ backend_port = os.environ.get('BACKEND_PORT', '5000')
 
 @app.route('/')
 def hello():
-    return 'Hello, PXL!'
+    return 'Love and flowers, PXL!'
 
 
 if __name__ == "__main__":
